@@ -1,0 +1,19 @@
+body{
+    background-color: #fd7777 ;
+}
+
+#title {
+    text-align: center;
+    margin-top: 80px;
+}
+#imagem {
+    float: right;
+    height: 400px;
+    width: 600px;
+}
+#texto {
+    float: left;
+    width: 1150px;
+    padding-top: 150px;
+    text-align: center;
+}
